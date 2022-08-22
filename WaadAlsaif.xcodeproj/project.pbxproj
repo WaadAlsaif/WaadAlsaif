@@ -11,6 +11,30 @@
 		AD0A36BB28AB143900967369 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0A36BA28AB143900967369 /* ContentView.swift */; };
 		AD0A36BD28AB143A00967369 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD0A36BC28AB143A00967369 /* Assets.xcassets */; };
 		AD0A36C028AB143A00967369 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD0A36BF28AB143A00967369 /* Preview Assets.xcassets */; };
+		AD0A36CA28AB14B100967369 /* Megrim.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD0A36C928AB14B100967369 /* Megrim.ttf */; };
+		AD0A36CC28AB14D500967369 /* Mohave-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD0A36CB28AB14D500967369 /* Mohave-Regular.ttf */; };
+		AD0A36CE28AB14EC00967369 /* Mohave-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD0A36CD28AB14EC00967369 /* Mohave-Light.ttf */; };
+		AD0A36D028AB155A00967369 /* MonomaniacOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD0A36CF28AB155A00967369 /* MonomaniacOne-Regular.ttf */; };
+		AD0A36D328AB162400967369 /* FontsManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0A36D228AB162400967369 /* FontsManger.swift */; };
+		AD0A36D728AB1D9300967369 /* CustomFonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0A36D628AB1D9300967369 /* CustomFonts.swift */; };
+		AD290F6228ABEC5D0033EDB7 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = AD290F6028ABEC5D0033EDB7 /* OFL.txt */; };
+		AD290F6328ABEC5D0033EDB7 /* Michroma-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD290F6128ABEC5D0033EDB7 /* Michroma-Regular.ttf */; };
+		AD290F6528ABEC870033EDB7 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F6428ABEC870033EDB7 /* Config.swift */; };
+		AD290F6728AC47630033EDB7 /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F6628AC47630033EDB7 /* Fonts.swift */; };
+		AD290F6928AC49D30033EDB7 /* Fontsustom.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F6828AC49D30033EDB7 /* Fontsustom.swift */; };
+		AD290F6C28AC4A1B0033EDB7 /* Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F6B28AC4A1B0033EDB7 /* Header.swift */; };
+		AD290F6E28AC4A2E0033EDB7 /* Bio.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F6D28AC4A2E0033EDB7 /* Bio.swift */; };
+		AD290F7028AC5F260033EDB7 /* Information.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F6F28AC5F260033EDB7 /* Information.swift */; };
+		AD290F7228AC600B0033EDB7 /* Education.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F7128AC600B0033EDB7 /* Education.swift */; };
+		AD290F7428AC61BF0033EDB7 /* Experince.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F7328AC61BF0033EDB7 /* Experince.swift */; };
+		AD290F7628AC66590033EDB7 /* Skills.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F7528AC66590033EDB7 /* Skills.swift */; };
+		AD290F7828AC66A80033EDB7 /* Interset.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F7728AC66A80033EDB7 /* Interset.swift */; };
+		AD290F7A28AC673C0033EDB7 /* Projects.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F7928AC673C0033EDB7 /* Projects.swift */; };
+		AD290F7E28AC6B7D0033EDB7 /* BottomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F7D28AC6B7D0033EDB7 /* BottomView.swift */; };
+		AD290F8028AC6C940033EDB7 /* Abel-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD290F7F28AC6C940033EDB7 /* Abel-Regular.ttf */; };
+		AD290F8328AC7F7C0033EDB7 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD290F8228AC7F7C0033EDB7 /* Constant.swift */; };
+		AD290F8828AC83870033EDB7 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = AD290F8728AC83870033EDB7 /* SDWebImageSwiftUI */; };
+		AD290F8A28AC882F0033EDB7 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD290F8928AC882F0033EDB7 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +43,30 @@
 		AD0A36BA28AB143900967369 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AD0A36BC28AB143A00967369 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD0A36BF28AB143A00967369 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AD0A36C928AB14B100967369 /* Megrim.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Megrim.ttf; sourceTree = "<group>"; };
+		AD0A36CB28AB14D500967369 /* Mohave-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mohave-Regular.ttf"; sourceTree = "<group>"; };
+		AD0A36CD28AB14EC00967369 /* Mohave-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mohave-Light.ttf"; sourceTree = "<group>"; };
+		AD0A36CF28AB155A00967369 /* MonomaniacOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MonomaniacOne-Regular.ttf"; sourceTree = "<group>"; };
+		AD0A36D128AB15BB00967369 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		AD0A36D228AB162400967369 /* FontsManger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontsManger.swift; sourceTree = "<group>"; };
+		AD0A36D628AB1D9300967369 /* CustomFonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFonts.swift; sourceTree = "<group>"; };
+		AD290F6028ABEC5D0033EDB7 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		AD290F6128ABEC5D0033EDB7 /* Michroma-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Michroma-Regular.ttf"; sourceTree = "<group>"; };
+		AD290F6428ABEC870033EDB7 /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
+		AD290F6628AC47630033EDB7 /* Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
+		AD290F6828AC49D30033EDB7 /* Fontsustom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fontsustom.swift; sourceTree = "<group>"; };
+		AD290F6B28AC4A1B0033EDB7 /* Header.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Header.swift; sourceTree = "<group>"; };
+		AD290F6D28AC4A2E0033EDB7 /* Bio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bio.swift; sourceTree = "<group>"; };
+		AD290F6F28AC5F260033EDB7 /* Information.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Information.swift; sourceTree = "<group>"; };
+		AD290F7128AC600B0033EDB7 /* Education.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Education.swift; sourceTree = "<group>"; };
+		AD290F7328AC61BF0033EDB7 /* Experince.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Experince.swift; sourceTree = "<group>"; };
+		AD290F7528AC66590033EDB7 /* Skills.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skills.swift; sourceTree = "<group>"; };
+		AD290F7728AC66A80033EDB7 /* Interset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interset.swift; sourceTree = "<group>"; };
+		AD290F7928AC673C0033EDB7 /* Projects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Projects.swift; sourceTree = "<group>"; };
+		AD290F7D28AC6B7D0033EDB7 /* BottomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomView.swift; sourceTree = "<group>"; };
+		AD290F7F28AC6C940033EDB7 /* Abel-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Abel-Regular.ttf"; sourceTree = "<group>"; };
+		AD290F8228AC7F7C0033EDB7 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		AD290F8928AC882F0033EDB7 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD290F8828AC83870033EDB7 /* SDWebImageSwiftUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,8 +100,13 @@
 		AD0A36B728AB143900967369 /* WaadAlsaif */ = {
 			isa = PBXGroup;
 			children = (
+				AD290F8128AC7F660033EDB7 /* Utility */,
+				AD0A36D128AB15BB00967369 /* Info.plist */,
+				AD290F6A28AC4A0F0033EDB7 /* Views */,
+				AD0A36C628AB148000967369 /* Fonts */,
 				AD0A36B828AB143900967369 /* WaadAlsaifApp.swift */,
 				AD0A36BA28AB143900967369 /* ContentView.swift */,
+				AD290F8928AC882F0033EDB7 /* Launch Screen.storyboard */,
 				AD0A36BC28AB143A00967369 /* Assets.xcassets */,
 				AD0A36BE28AB143A00967369 /* Preview Content */,
 			);
@@ -65,6 +119,57 @@
 				AD0A36BF28AB143A00967369 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AD0A36C628AB148000967369 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				AD290F5F28ABEC5D0033EDB7 /* Michroma */,
+				AD0A36CF28AB155A00967369 /* MonomaniacOne-Regular.ttf */,
+				AD0A36CB28AB14D500967369 /* Mohave-Regular.ttf */,
+				AD0A36CD28AB14EC00967369 /* Mohave-Light.ttf */,
+				AD290F7F28AC6C940033EDB7 /* Abel-Regular.ttf */,
+				AD0A36C928AB14B100967369 /* Megrim.ttf */,
+				AD0A36D228AB162400967369 /* FontsManger.swift */,
+				AD0A36D628AB1D9300967369 /* CustomFonts.swift */,
+				AD290F6828AC49D30033EDB7 /* Fontsustom.swift */,
+				AD290F6428ABEC870033EDB7 /* Config.swift */,
+				AD290F6628AC47630033EDB7 /* Fonts.swift */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		AD290F5F28ABEC5D0033EDB7 /* Michroma */ = {
+			isa = PBXGroup;
+			children = (
+				AD290F6028ABEC5D0033EDB7 /* OFL.txt */,
+				AD290F6128ABEC5D0033EDB7 /* Michroma-Regular.ttf */,
+			);
+			path = Michroma;
+			sourceTree = "<group>";
+		};
+		AD290F6A28AC4A0F0033EDB7 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				AD290F6B28AC4A1B0033EDB7 /* Header.swift */,
+				AD290F6D28AC4A2E0033EDB7 /* Bio.swift */,
+				AD290F7128AC600B0033EDB7 /* Education.swift */,
+				AD290F6F28AC5F260033EDB7 /* Information.swift */,
+				AD290F7528AC66590033EDB7 /* Skills.swift */,
+				AD290F7328AC61BF0033EDB7 /* Experince.swift */,
+				AD290F7928AC673C0033EDB7 /* Projects.swift */,
+				AD290F7728AC66A80033EDB7 /* Interset.swift */,
+				AD290F7D28AC6B7D0033EDB7 /* BottomView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		AD290F8128AC7F660033EDB7 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				AD290F8228AC7F7C0033EDB7 /* Constant.swift */,
+			);
+			path = Utility;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +188,9 @@
 			dependencies = (
 			);
 			name = WaadAlsaif;
+			packageProductDependencies = (
+				AD290F8728AC83870033EDB7 /* SDWebImageSwiftUI */,
+			);
 			productName = WaadAlsaif;
 			productReference = AD0A36B528AB143900967369 /* WaadAlsaif.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +219,9 @@
 				Base,
 			);
 			mainGroup = AD0A36AC28AB143900967369;
+			packageReferences = (
+				AD290F8628AC83870033EDB7 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+			);
 			productRefGroup = AD0A36B628AB143900967369 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +236,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD290F8028AC6C940033EDB7 /* Abel-Regular.ttf in Resources */,
+				AD290F6228ABEC5D0033EDB7 /* OFL.txt in Resources */,
+				AD0A36CC28AB14D500967369 /* Mohave-Regular.ttf in Resources */,
 				AD0A36C028AB143A00967369 /* Preview Assets.xcassets in Resources */,
+				AD0A36D028AB155A00967369 /* MonomaniacOne-Regular.ttf in Resources */,
 				AD0A36BD28AB143A00967369 /* Assets.xcassets in Resources */,
+				AD0A36CA28AB14B100967369 /* Megrim.ttf in Resources */,
+				AD0A36CE28AB14EC00967369 /* Mohave-Light.ttf in Resources */,
+				AD290F8A28AC882F0033EDB7 /* Launch Screen.storyboard in Resources */,
+				AD290F6328ABEC5D0033EDB7 /* Michroma-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +256,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD290F6C28AC4A1B0033EDB7 /* Header.swift in Sources */,
+				AD290F8328AC7F7C0033EDB7 /* Constant.swift in Sources */,
+				AD290F7428AC61BF0033EDB7 /* Experince.swift in Sources */,
+				AD290F6928AC49D30033EDB7 /* Fontsustom.swift in Sources */,
+				AD290F7828AC66A80033EDB7 /* Interset.swift in Sources */,
+				AD290F7228AC600B0033EDB7 /* Education.swift in Sources */,
+				AD0A36D328AB162400967369 /* FontsManger.swift in Sources */,
+				AD0A36D728AB1D9300967369 /* CustomFonts.swift in Sources */,
+				AD290F6528ABEC870033EDB7 /* Config.swift in Sources */,
 				AD0A36BB28AB143900967369 /* ContentView.swift in Sources */,
+				AD290F6728AC47630033EDB7 /* Fonts.swift in Sources */,
+				AD290F6E28AC4A2E0033EDB7 /* Bio.swift in Sources */,
+				AD290F7E28AC6B7D0033EDB7 /* BottomView.swift in Sources */,
+				AD290F7628AC66590033EDB7 /* Skills.swift in Sources */,
+				AD290F7A28AC673C0033EDB7 /* Projects.swift in Sources */,
+				AD290F7028AC5F260033EDB7 /* Information.swift in Sources */,
 				AD0A36B928AB143900967369 /* WaadAlsaifApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -265,16 +399,20 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_ASSET_PATHS = "\"WaadAlsaif/Preview Content\"";
 				DEVELOPMENT_TEAM = GGA6V3NQK5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WaadAlsaif/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -294,16 +432,20 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_ASSET_PATHS = "\"WaadAlsaif/Preview Content\"";
 				DEVELOPMENT_TEAM = GGA6V3NQK5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WaadAlsaif/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -339,6 +481,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		AD290F8628AC83870033EDB7 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AD290F8728AC83870033EDB7 /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AD290F8628AC83870033EDB7 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = AD0A36AD28AB143900967369 /* Project object */;
 }
